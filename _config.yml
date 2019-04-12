@@ -1,0 +1,65 @@
+# Site
+name: 'Ashish Pal'
+description: 'This is the blog to enhance your skills.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/A.jpg'
+baseurl: '/AshishPal-Blog'
+disqus: 'demowebsite'
+email: 'ashishpal@gmail.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    Ashish:
+      name:           Ashish
+      site:           https://ashishpal.wordpress.com/
+      avatar:         /assets/images/ashish.jpg
+      bio:            "Hi, I am Ashish, Blogger, love to explore new ideas and write on my morning coffee!"
+      email:          ashishpal@gmail.com
+      twitter:        https://twitter.com/_ashishpal
+
+    Jai:
+      name:           J.AI
+      site:           https://ivehement.wordpress.com/
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Coder | Self Learner | Biological AI"
+      email:          jvoltci@gmail.com
+      twitter:        https://twitter.com/j_aici
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
