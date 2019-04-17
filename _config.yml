@@ -4,9 +4,9 @@ description: 'This is the blog to enhance your skills.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/A.jpg'
 baseurl: '/'
-disqus: 'demowebsite'
+disqus: ''
 email: 'ashishpal@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: ''
 
 include: ["_pages"]
 permalink: /:title/
