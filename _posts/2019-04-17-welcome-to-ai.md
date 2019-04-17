@@ -8,9 +8,9 @@ image: assets/images/ai.jpg
 
 Principles and practices around artificial intelligence (AI), automation and cognitive systems is something which is likely to become increasingly valuable, regardless of the field of business, expertise or profession. A growing number of online courses have sprung up in recent years covering everything from the basics to advanced implementation.
 
-Some are aimed at people who want to dive straight into coding their own artificial neural networks, and understandably assume a certain level of technical ability. Others are useful for those who want to learn how this technology can be applied by anyone, regardless of prior technical expertise, to solving real-word problems.
+Some are aimed at people who want to dive straight into coding their own artificial neural networks and understandably assume a certain level of technical ability. Others are useful for those who want to learn how this technology can be applied by anyone, regardless of prior technical expertise, to solving real-world problems.
 
-In this post I will give a rundown of some of the best free ones which are available today.
+In this post, I will give a rundown of some of the best free ones which are available today.
 
 <b>Learn with Google AI</b>
 
@@ -34,11 +34,6 @@ This course is also available in its entirety for free online, with an option to
 
 As with the course above, MIT takes the approach of using one major real-world aspect of AI as a jumping-off point to explore the specific technologies involved.
 
-The self-driving cars which are widely expected to become a part of our everyday lives rely on AI to make sense of all of the data hitting the vehicle’s array of sensors and safely navigate the roads. This involves teaching machines to interpret data from those sensors just as our own brains interpret signals from our eyes, ears and touch.
+The self-driving cars which are widely expected to become a part of our everyday lives rely on AI to make sense of all of the data hitting the vehicle’s array of sensors and safely navigate the roads. This involves teaching machines to interpret data from those sensors just as our own brains interpret signals from our eyes, ears, and touch.
 
 It covers the use of the MIT DeepTraffic simulator, which challenges students to teach a simulated car to drive as fast as possible along a busy road without colliding with other road users.
-
-
-
-
-
