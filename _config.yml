@@ -22,7 +22,7 @@ authors:
     Ashish:
       name:           Ashish
       site:           https://ashishpal.wordpress.com/
-      avatar:         /assets/images/ashish.jpg
+      avatar:         assets/images/ashish.jpg
       bio:            "Hi, I am Ashish, Blogger, love to explore new ideas and write on my morning coffee!"
       email:          ashishpal@gmail.com
       twitter:        https://twitter.com/_ashishpal
@@ -30,8 +30,8 @@ authors:
     Jai:
       name:           J.AI
       site:           https://ivehement.wordpress.com/
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Coder | Self Learner | Biological AI"
+      avatar:         assets/images/J.jpg
+      bio:            "AI Programmer"
       email:          jvoltci@gmail.com
       twitter:        https://twitter.com/j_aici
  
