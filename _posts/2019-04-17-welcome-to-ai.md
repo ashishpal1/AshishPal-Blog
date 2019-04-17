@@ -1,3 +1,11 @@
+---
+layout: post
+title: 'Welcome to AI'
+author: Ashish
+categories: [ Article ]
+image: assets/images/ai.jpg
+---
+
 Principles and practices around artificial intelligence (AI), automation and cognitive systems is something which is likely to become increasingly valuable, regardless of the field of business, expertise or profession. A growing number of online courses have sprung up in recent years covering everything from the basics to advanced implementation.
 
 Some are aimed at people who want to dive straight into coding their own artificial neural networks, and understandably assume a certain level of technical ability. Others are useful for those who want to learn how this technology can be applied by anyone, regardless of prior technical expertise, to solving real-word problems.
