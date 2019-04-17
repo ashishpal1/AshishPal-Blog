@@ -4,25 +4,25 @@ Some are aimed at people who want to dive straight into coding their own artific
 
 In this post I will give a rundown of some of the best free ones which are available today.
 
-1. Learn with Google AI
+<b>Learn with Google AI</b>
 
 This newly launched resource is part of Google’s plan to broaden the understanding of AI among the general public. Material is slowly being added but it already contains a Machine Learning with TensorFlow (Google’s machine learning library) crash course.
 
-2. Google – Machine Learning
+<b>Google – Machine Learning</b>
 
 This is a slightly more in-depth course from Google offered through Udacity. As such, it isn’t aimed at complete novices and assumes some previous experience of machine learning, to the point where you are at least familiar with supervised learning methods.
 
-3. Stanford University – Machine Learning
+<b>Stanford University – Machine Learning</b>
 
 This course is offered through Coursera and is taught by Andrew Ng, the founder of Google’s deep learning research unit, Google Brain, and head of AI for Baidu.
 
 The entire course can be studied for free, although there is also the option of paying for certification which could certainly be useful if you plan to use your understanding of AI to increase your career prospects.
 
-4. Columbia University – Machine Learning
+<b>Columbia University – Machine Learning</b>
 
 This course is also available in its entirety for free online, with an option to pay for certification should you need it. It promises to teach models, methods and applications for solving real-world problems using probabilistic and non-probabilistic methods as well as supervised and unsupervised learning.
 
-5. MIT – Deep Learning for Self Driving Cars
+<b>MIT – Deep Learning for Self Driving Cars</b>
 
 As with the course above, MIT takes the approach of using one major real-world aspect of AI as a jumping-off point to explore the specific technologies involved.
 
