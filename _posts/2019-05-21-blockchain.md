@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Welcome to Blockchain'
+title: 'BC1: Welcome to Blockchain'
 author: Ashish
 categories: [ Article ]
 image: assets/images/Blockchain_workflow.png
