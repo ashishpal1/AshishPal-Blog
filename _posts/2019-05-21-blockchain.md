@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Welcome to AI'
+title: 'Welcome to Blockchain'
 author: Ashish
 categories: [ Article ]
-image: assets/images/ai.jpg
+image:
 ---
 
 Principles and practices around artificial intelligence (AI), automation and cognitive systems is something which is likely to become increasingly valuable, regardless of the field of business, expertise or profession. A growing number of online courses have sprung up in recent years covering everything from the basics to advanced implementation.
