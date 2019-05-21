@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Welcome to AI'
+title: 'AI1: Welcome to AI'
 author: Ashish
 categories: [ Article ]
 image: assets/images/ai.jpg
