@@ -1,11 +1,12 @@
 
 ---
 layout: post
-title: 'BC2: What makes Blockchain a challenging field?'
+title: 'BC1: Welcome to Blockchain'
 author: Ashish
 categories: [ Article ]
-
+image: assets/images/ch.png
 ---
+
 <b>What makes Blockchain a challenging field?</b>
 
 In this post, I will give a rundown of some of the best reasons that  makes Blockchain a challenging field.
