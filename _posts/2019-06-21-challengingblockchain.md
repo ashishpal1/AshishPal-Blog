@@ -4,7 +4,7 @@ layout: post
 title: 'BC2: What makes Blockchain a challenging field?'
 author: Ashish
 categories: [ Article ]
-image: 1.png
+
 ---
 <b>What makes Blockchain a challenging field?</b>
 
