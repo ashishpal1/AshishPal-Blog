@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: 'BC1: Welcome to Blockchain'
+title: BC1: Welcome to Blockchain
 author: Ashish
 categories: [ Article ]
 image: assets/images/ch.png
