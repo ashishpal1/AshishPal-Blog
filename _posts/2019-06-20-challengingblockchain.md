@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: BC1: Welcome to Blockchain
+title: 'BC2: What makes Blockchain a challenging field?'
 author: Ashish
 categories: [ Article ]
 image: assets/images/ch.png
