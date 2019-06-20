@@ -4,37 +4,47 @@ layout: post
 title: 'BC2: What makes Blockchain a challenging field?'
 author: Ashish
 categories: [ Article ]
-image: assets/images/Blockchain_workflow.png
+image: 1.png
 ---
+<b>What makes Blockchain a challenging field?</b>
 
-Principles and practices around artificial intelligence (AI), automation and cognitive systems is something which is likely to become increasingly valuable, regardless of the field of business, expertise or profession. A growing number of online courses have sprung up in recent years covering everything from the basics to advanced implementation.
+In this post, I will give a rundown of some of the best reasons that  makes Blockchain a challenging field.
 
-Some are aimed at people who want to dive straight into coding their own artificial neural networks and understandably assume a certain level of technical ability. Others are useful for those who want to learn how this technology can be applied by anyone, regardless of prior technical expertise, to solving real-world problems.
+<b>1. Math. And a lot of it! Learn with Google AI</b>
 
-In this post, I will give a rundown of some of the best free ones which are available today.
+Whether you like it or not, Math is omnipresent where there is an blockchain algorithm functional. Read <a href="https://medium.com/dataseries/explaining-the-math-behind-blockchain-algorithms-98d06e06c2e3">here</a> to believe me.
 
-<b>Learn with Google AI</b>
+<b>2. Cryptography - Ain't the name: CRYPTOCURRENCY synonymous with Blockchain?</b>
 
-This newly launched resource is part of Google’s plan to broaden the understanding of AI among the general public. Material is slowly being added but it already contains a Machine Learning with TensorFlow (Google’s machine learning library) crash course.
+You need to have a clear understanding of various cryptographic techniques and mechanisms in order to get through the fundamentals of blockchain. Read <a href="https://medium.com/@cryptonia/crypto-101-a-simple-guide-to-understanding-and-researching-cryptocurrencies-1da70896aee4"> here </a>.
 
-<b>Google – Machine Learning</b>
+<b>3. Programming languages and Data Structures</b>
 
-This is a slightly more in-depth course from Google offered through Udacity. As such, it isn’t aimed at complete novices and assumes some previous experience of machine learning, to the point where you are at least familiar with supervised learning methods.
+From Go to Ruby to Javascript to what not. You certainly need to be on top of the stack of programming skills to get through the skin of blockchain applications also called DApps. <a href="https://hackernoon.com/what-skills-do-you-need-to-be-a-blockchain-engineer-c4e77e9de22b">Here</a> is a 6min Hackernoon article that clarifies a lot of skills needed to be on this side of the tech-ocean.
 
-<b>Stanford University – Machine Learning</b>
 
-This course is offered through Coursera and is taught by Andrew Ng, the founder of Google’s deep learning research unit, Google Brain, and head of AI for Baidu.
+<b>4. Network Architectures - Network is the boss.</b>
 
-The entire course can be studied for free, although there is also the option of paying for certification which could certainly be useful if you plan to use your understanding of AI to increase your career prospects.
+Basis consensus, everything is network dependent. You cant ignore the fine art of designing responsive ad fault tolerant networks while building a scalable blockchain. Read more <a href="https://www.coursera.org/lecture/ibm-blockchain-essentials-for-developers/network-considerations-MIuzY"> here</a>.
 
-<b>Columbia University – Machine Learning</b>
+<b>5. Game theory! You aren't done yet! ;)</b>
 
-This course is also available in its entirety for free online, with an option to pay for certification should you need it. It promises to teach models, methods and applications for solving real-world problems using probabilistic and non-probabilistic methods as well as supervised and unsupervised learning.
+Game theory explores how rational people make strategic decisions in different scenarios. Although often conflated with general logic, game theory is based in purely mathematical terms and has applications in any domain where people must coordinate or compete with each other.
 
-<b>MIT – Deep Learning for Self Driving Cars</b>
+Given blockchain mechanics of network interdependence, it should be no surprise that game theoretical thinking is critical for designing cryptocurrencies via its influence on cryptoeconomics.
 
-As with the course above, MIT takes the approach of using one major real-world aspect of AI as a jumping-off point to explore the specific technologies involved.
+Interested? See <a href="https://blockonomi.com/game-theory/"> this </a>.
 
-The self-driving cars which are widely expected to become a part of our everyday lives rely on AI to make sense of all of the data hitting the vehicle’s array of sensors and safely navigate the roads. This involves teaching machines to interpret data from those sensors just as our own brains interpret signals from our eyes, ears, and touch.
+<b>5. Economy :D</b>
+Cryptocurrencies and the underlying distributed ledger technology have exploded into public consciousness over the last few years, with devotees insisting that the technology will revolutionise financial transactions and ownership data. This column identifies a ‘blockchain trilemma’ whereby no ledger can fully satisfy the three desirable properties of decentralisation, correctness, and cost-efficiency. It further explains how distributed ledgers enhance competition but introduce costs above and beyond the well-known electricity costs. 
+Don't take my word. See <a href="https://voxeu.org/article/economics-blockchains">this.</a>
 
-It covers the use of the MIT DeepTraffic simulator, which challenges students to teach a simulated car to drive as fast as possible along a busy road without colliding with other road users.
+<b>6. Here comes the final peice of the big blockchain puzzle - Finance!</b>
+
+Without much ado, lets hop over to the best and simplest resource i landed upon for making this point clear. Catch <a href="https://blockgeeks.com/guides/blockchain-and-finance/">this</a> up!
+
+In the end of this script, I leave you with <a href="https://www.investopedia.com/terms/b/blockchain.asp">this</a> fantabulous resource on understanding the nitti-gritties of Blockchain hosted  by Investopedia.
+
+If you are still with me, Welcome to the world of Blockchain!
+:)
+
