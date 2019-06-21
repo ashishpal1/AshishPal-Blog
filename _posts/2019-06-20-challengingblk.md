@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'AI1: Welcome to AI'
+title: 'B2: Challenges for a Newbie in Blockchain tech'
 author: Ashish
 categories: [ Article ]
-image: assets/images/ch.jpg
+image: assets/images/ch.png
 ---
 Hello,
 In this post, I will give a rundown of some of the best reasons that  makes Blockchain a challenging field.
