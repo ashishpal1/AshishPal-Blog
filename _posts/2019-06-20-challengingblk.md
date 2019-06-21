@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'B2: Challenges for a Newbie in Blockchain tech'
+title: 'BC2: Learning Curve for a Newbie in Blockchain tech'
 author: Ashish
 categories: [ Article ]
 image: assets/images/ch.png
 ---
 Hello,
-In this post, I will give a rundown of some of the best reasons that  makes Blockchain a challenging field.
+In this post, I will give a rundown of some of the best reasons that  makes Blockchain a real learning opportunity.
 
 <b>1. Math. And a lot of it!</b>
 
