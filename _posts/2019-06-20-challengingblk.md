@@ -4,9 +4,8 @@ title: 'BC2: Learning Curve for a Newbie in Blockchain tech'
 author: Ashish
 categories: [ Article ]
 image: assets/images/ch.png
-Courtesy Mr. Sergie, CryptoLux.
 ---
-
+Courtesy: Mr. Sergie, CryptoLux.
 Hello,
 In this post, I will give a rundown of some of the best reasons that  makes Blockchain a real learning opportunity.
 
