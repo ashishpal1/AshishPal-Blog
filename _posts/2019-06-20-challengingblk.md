@@ -3,7 +3,7 @@ layout: post
 title: 'AI1: Welcome to AI'
 author: Ashish
 categories: [ Article ]
-image: assets/images/ai.jpg
+image: assets/images/ch.jpg
 ---
 Hello,
 In this post, I will give a rundown of some of the best reasons that  makes Blockchain a challenging field.
