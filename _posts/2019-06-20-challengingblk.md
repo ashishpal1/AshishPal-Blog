@@ -1,15 +1,11 @@
-
 ---
 layout: post
-title: 'BC21: What makes Blockchain'
+title: 'AI1: Welcome to AI'
 author: Ashish
 categories: [ Article ]
 image: assets/images/ai.jpg
 ---
-
 Hello,
-<b>What makes Blockchain a challenging field?</b>
-
 In this post, I will give a rundown of some of the best reasons that  makes Blockchain a challenging field.
 
 <b>1. Math. And a lot of it!</b>
