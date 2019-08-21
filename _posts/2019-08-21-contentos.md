@@ -49,9 +49,11 @@ Advancement of blockchain technology has to make Contentos to hypothetically exe
 <b>Token market</b>
 Contentos has a token called COS, it’ll issue COS — an ethereum blockchain based compliant. COS token will be a means of encouraging users to develop more content and actively contribute to the building of the community and to compensate DApp developers too. On the other hand, when users withhold COS without using them, they’ll be disqualified for a bonus. To obtain a bonus each user will be required to trade their COS among one another. VEST will be produced every time a new block is created and shared to those sharers, uploader, reporter, DAPP developer. It’s fairly frequent to part dividends from user’s rights in the double token system.
 <br/>
+
 COS Token Cycle
+---
 image: assets/images/12.png
- 
+--- 
 
 <b>Conclusion</b>
 
