@@ -3,7 +3,7 @@ layout: post
 title: 'BC2: Learning Curve for a Newbie in Blockchain tech'
 author: Ashish
 categories: [ Article ]
-image: assets/images/ch.png
+image: assets/images/11.png
 ---
  
 “I have a dream for global content creators, and now we are turning that dream into a reality - A place where every content creator who has a dream can achieve it. It will be the future of global content creators, the future of Contentos.” - Mick Tsai, Co-Founder of Contentos.io
