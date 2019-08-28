@@ -39,3 +39,5 @@ As with any technology conundrum, you use whichever most satisfies your needs. I
 If your application is an internal tool for your company to use and you are displaying tons of data (and you would normally write it in Winforms) consider WPF.
 
 Weigh the pros and cons, make a proof of concept to get a feel for how the application will work. These are not two competing technologies really, they are more like a wrench and a screwdriver. Both of these tools are used to turn something. What that something is determines which tool you use. Or you could use the hammer and just beat the offending something into a mash with WinForms.
+
+Courtesy: <a href="https://www.linkedin.com/pulse/wpf-vs-mvc-rivalry-wasnt-cory-blissitte?src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.10078_plc.Skimbit%20Ltd._pcrid.449670_learning&trk=aff_src.aff-lilpar_c.partners_pkw.10078_plc.Skimbit%20Ltd._pcrid.449670_learning&clickid=wxP1R3QtZxyJRRewUx0Mo3Q2UklXZVSU73QUzY0&irgwc=1">this</a>
