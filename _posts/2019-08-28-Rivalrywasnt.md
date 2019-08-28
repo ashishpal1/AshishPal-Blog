@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PR1: MVC versus WPF : The rivalry that wasn't!'
+title: 'PR1: MVC versus WPF - The rivalry that wasn't!'
 author: Ashish
 categories: [ Article ]
 image: 
