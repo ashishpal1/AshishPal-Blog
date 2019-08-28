@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'PR1: MVC versus WPF : The rivalry that wasn't!'
-author: content@ashishpal.ml
+author: Ashish
 categories: [ Article ]
-image: assets/images/11.png
+image: 
 ---
  
 Apples and Oranges (with a caveat). <br/>They are very different technologies with a little bit of overlap. I have seen several people asking questions about these two over the past couple of years and there seems to exist some confusion.
 
-WPF
+<b>WPF</b>
 
 Window Presentation Foundation is a successor of Windows Forms application development. Windows Forms has been around for a long time. Its current incarnation has been a part of the .NET stack from the beginning, and was spawned from Visual Basic form projects that came before. Unfortunately for WinForms developers, Windows Forms is in maintenance mode; no new development. It is just too old and is being retired.
 
@@ -20,7 +20,7 @@ WPF is also designed from the beginning with a more intelligent structure in min
 
 WPF works best when your application is used inside the network. It runs in the user session so it can take advantage of Windows account credentials. Also, when you need lots of complex data displayed, it works very well with graphs and charts and dynamic hierarchy controls and so forth.
 
-MVC
+<b>MVC</b>
 
 People talk about MVC, but they really mean ASP.NET MVC. MVC (Model View Controller) is similar to MVVM described above. It is a way of separating the UI (the View) from the data (the Model) with a layer that processes the data and gives the view what it needs to display.
 
