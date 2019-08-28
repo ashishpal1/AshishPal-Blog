@@ -3,7 +3,7 @@ layout: post
 title: 'PR1: MVC versus WPF - The rivalry that wasn't!'
 author: Ashish
 categories: [ Article ]
-image: 
+image: assets/images/download.jpg
 ---
  
 Apples and Oranges (with a caveat). <br/>They are very different technologies with a little bit of overlap. I have seen several people asking questions about these two over the past couple of years and there seems to exist some confusion.
